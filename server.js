@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 const routes = require('./routes');
 
 // allow cross domain connection
-app.get('/', function (req, res, next) {
+app.use(function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
     next();

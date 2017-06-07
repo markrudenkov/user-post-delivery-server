@@ -14,5 +14,5 @@ module.exports = function (req, res) {
     const postId = req.params.postId * 1;
     const target_comennts = findAllComments(postId,data);
 
-    res.json({message: 'Target comments achieved by GET!', target_comennts});
+    res.json(target_comennts);
 };
