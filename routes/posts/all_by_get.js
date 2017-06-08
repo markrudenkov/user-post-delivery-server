@@ -1,8 +1,8 @@
 const data = require('../../posts_data.json');
-const logger = require('../../winston_logger');
+const logger = require('../../custom_logger');
 
 module.exports = function (req, res,next) {
     const posts = data;
     res.json(posts);
-    next(logger.info('posts fetchet by get method'))
+    next(logger('posts fetchet by get method'));
 };

@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
 let bodyParser = require('body-parser');
-let winston_logger = require('./winston_logger')
+let winston_logger = require('./custom_logger')
 
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }));

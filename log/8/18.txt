@@ -1,0 +1,15 @@
+Logger is enabled
+Logger is enabled
+posts fetchet by get method
+6:51:12 PM Logger is enabled
+6:51:12 PM posts fetchet by get method
+6:52:31 PM Logger is enabled
+6:52:31 PM posts fetchet by get method
+6:55:01 PM Logger is enabled
+6:55:01 PM posts fetchet by get method
+6:55:01 PM posts fetchet by get method
+6:55:01 PM posts fetchet by get method
+6:55:01 PM posts fetchet by get method
+6:56:14 PM Logger is enabled
+6:56:14 PM Coment fetchet by get method
+6:56:14 PM Comments fetchet by get method
