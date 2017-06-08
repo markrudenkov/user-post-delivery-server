@@ -1,0 +1,8 @@
+7:08:40 PM Logger is enabled
+7:11:02 PM Logger is enabled
+7:11:02 PM Coment fetchet by get method
+7:15:03 PM Logger is enabled
+7:15:03 PM Coment fetchet by get method
+7:16:35 PM Logger is enabled
+7:16:50 PM Logger is enabled
+7:16:50 PM Coment fetchet by get method

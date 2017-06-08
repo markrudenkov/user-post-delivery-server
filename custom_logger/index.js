@@ -30,8 +30,6 @@ function info(logMessage){
     writeLoggTofileConsole (logMessage);
 }
 
-
-
 info('Logger is enabled');
 
 module.exports = info;
