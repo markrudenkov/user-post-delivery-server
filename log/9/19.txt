@@ -1,0 +1,5 @@
+7:01:35 PM Logger is enabled
+7:01:35 PM posts fetchet by get method
+7:02:22 PM Logger is enabled
+7:02:31 PM Logger is enabled
+7:02:31 PM posts fetchet by get method

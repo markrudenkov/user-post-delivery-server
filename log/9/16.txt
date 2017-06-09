@@ -1,0 +1,21 @@
+4:37:01 PM Logger is enabled
+4:37:01 PM posts fetchet by get method
+4:40:32 PM Logger is enabled
+4:40:32 PM posts fetchet by get method
+4:40:32 PM posts fetchet by get method
+4:40:57 PM Logger is enabled
+4:45:23 PM Logger is enabled
+4:56:10 PM Logger is enabled
+4:56:10 PM posts fetchet by get method
+4:56:46 PM Logger is enabled
+4:56:46 PM posts fetchet by get method
+4:57:18 PM Logger is enabled
+4:57:18 PM posts fetchet by get method
+4:57:55 PM Logger is enabled
+4:57:55 PM posts fetchet by get method
+4:58:38 PM Logger is enabled
+4:58:38 PM posts fetchet by get method
+4:59:10 PM Logger is enabled
+4:59:10 PM posts fetchet by get method
+4:59:37 PM Logger is enabled
+4:59:37 PM posts fetchet by get method
