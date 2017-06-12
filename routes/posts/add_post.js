@@ -4,7 +4,7 @@ const posts_data = 'data_storage/posts_data.txt';
 const test_posts_data = 'data_storage/test_posts.txt';
 
 
-function putPost(body){
+function addPost(body){
     let posts = JSON.parse(fs.readFileSync(test_posts_data));
     posts.push(body);
     let file = fs.createWriteStream(test_posts_data);
@@ -15,6 +15,6 @@ function putPost(body){
 
 
 module.exports = function (req, res,next) {
-    res.json(putPost(req.body));
+    res.json(addPost(req.body));
     next(logger('posts fetchet by get method'));
 };
